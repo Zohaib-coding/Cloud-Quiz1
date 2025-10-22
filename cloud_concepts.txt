@@ -1,0 +1,7 @@
+Cloud service models (Iaas ,pass ,saas)
+Iaas - Infrastructure as a service provider provides visualized hardware resources
+.
+Cloud Deployment Models:
+Public Cloud - Available to everyone via the internet
+Private Cloud - Dedicated for a single organization
+Hybrid Cloud - combination of public and private cloud.
